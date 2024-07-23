@@ -1,5 +1,5 @@
 # Druck Pace 1001 Example in C#
-Below is an example on connecting and recieving pressure data from a Druck Pace 1001 over ethernet, in C#. Please feel free to [buy me a coffee](https://www.buymeacoffee.com/andrewsimpsonuk) if this has been helpful!
+Below is an example on connecting and recieving pressure data from a Druck Pace 1001 over ethernet, in C#. 
 
 ## Libraries / References
 The Ivi.Visa reference is used
